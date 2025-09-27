@@ -1,4 +1,30 @@
+# Config files (chứa thông tin nhạy cảm)
 config.json
+
+# Log files
 log.txt
+*.log
+
+# Python cache
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+.Python
+
+# Backup files
+followed_usernames.txt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.temp
